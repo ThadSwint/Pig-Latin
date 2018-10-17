@@ -1,0 +1,10 @@
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\bin\Debug\16.5_ThadSwint.exe.config
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\bin\Debug\16.5_ThadSwint.exe
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\bin\Debug\16.5_ThadSwint.pdb
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\16.5_ThadSwint.csprojAssemblyReference.cache
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\_16._5_ThadSwint.Form1.resources
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\_16._5_ThadSwint.Properties.Resources.resources
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\16.5_ThadSwint.csproj.GenerateResource.cache
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\16.5_ThadSwint.csproj.CoreCompileInputs.cache
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\16.5_ThadSwint.exe
+C:\Users\Thad\source\repos\16.5_ThadSwint\16.5_ThadSwint\obj\Debug\16.5_ThadSwint.pdb
